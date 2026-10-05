@@ -1,4 +1,4 @@
-# Galaxycraft
+# Minelaxy
 
 **Not to be confused with M0uiDev's Minecraft IN Super Mario Galaxy 2 mod**
 
