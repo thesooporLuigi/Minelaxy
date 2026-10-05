@@ -1,5 +1,7 @@
 # Galaxycraft
 
+**Not to be confused with M0uiDev's Minecraft IN Super Mario Galaxy 2 mod**
+
 **I did not write this README. It was written entirely by Claude. I am working on making my own README though so it comes from me :3**
 
 **Galaxycraft** is a Fabric mod for **Minecraft 1.21.1** that turns you into Mario (or Luigi) from *Super Mario Galaxy*: his moves, physics, animations, voice, music, HUD and death sequence, all taken from the game itself.
