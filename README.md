@@ -6,7 +6,7 @@
 
 AI part starts here :p
 
-**Galaxycraft** is a Fabric mod for **Minecraft 1.21.1** that turns you into Mario (or Luigi) from *Super Mario Galaxy*: his moves, physics, animations, voice, music, HUD and death sequence, all taken from the game itself.
+**Minelaxy** is a Fabric mod for **Minecraft 1.21.1** that turns you into Mario (or Luigi) from *Super Mario Galaxy*: his moves, physics, animations, voice, music, HUD and death sequence, all taken from the game itself.
 
 **Current version: 1.0.0 Stable**. Grab it from [Releases](../../releases).
 
@@ -47,7 +47,7 @@ AI part starts here :p
 ## Install
 
 1. Make a Minecraft 1.21.1 Fabric instance (Prism Launcher, the Fabric installer, etc.).
-2. Put `galaxycraft-<version>.jar` (e.g. `galaxycraft-1.0.0-stable.jar`) and Fabric API in the instance's `mods` folder. Delete any older Galaxycraft or smgmario jar.
+2. Put `Minelaxy-<version>.jar` (e.g. `Minelaxy-1.0.0-stable.jar`) and Fabric API in the instance's `mods` folder. Delete any older Minelaxy or smgmario jar.
 3. Launch the game once, then close it. This creates `config/smgmario.properties`.
 4. Open `config/smgmario.properties` and set `smgPath` to your extracted game folder, for example:
    ```
@@ -112,7 +112,7 @@ First stable release.
 - Everything from the betas, plus: Mario keeps facing the way he was when he dies (he used to spin around with the camera).
 - Fixed Game Over penalties and SMG death animations not working (the server never saw Mario's death).
 - Falling out of the world works like Galaxy: the camera stops where it is and smoothly turns to watch Mario fall away.
-- The mod is now called **Galaxycraft** (jar files are `galaxycraft-<version>.jar`). The config file is still `config/smgmario.properties`, so your settings carry over.
+- The mod is now called **Minelaxy** (jar files are `Minelaxy-<version>.jar`). The config file is still `config/smgmario.properties`, so your settings carry over.
 
 ### 0.12.0 Beta
 - Stomping: land on an enemy while falling to hurt it and bounce off, using SMG's logic. Hold jump to bounce higher; every third stomp in a row goes higher still. By default only monsters can be stomped (`stompAllMobs` adds other mobs, never your own pets).
