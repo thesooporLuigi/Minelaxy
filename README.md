@@ -164,3 +164,4 @@ Open an issue with:
 
 - Movement, animation and sequence logic is based on the [Petari](https://github.com/SMGCommunity/Petari) Super Mario Galaxy decompilation.
 - Super Mario Galaxy is © Nintendo. This is a fan project and is not affiliated with or endorsed by Nintendo.
+- **This mod was vibecoded with Claude and was originally a personal project. please don't hate me :3**
