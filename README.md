@@ -10,7 +10,7 @@ AI part starts here :p
 
 **Minelaxy** is a Fabric mod for **Minecraft 1.21.1** that turns you into Mario (or Luigi) from *Super Mario Galaxy*: his moves, physics, animations, voice, music, HUD and death sequence, all taken from the game itself.
 
-**Current version: 1.0.0 Stable**. Grab it from [Releases](../../releases).
+**Current version: 1.1 Stable**. Grab it from [Releases](../../releases).
 
 > **This mod contains no Nintendo files.** On launch it reads Mario's model, animations, sounds, music and HUD from **your own** extracted copy of Super Mario Galaxy. Without the game files the mod stays switched off and Minecraft plays like vanilla. Please don't share game files.
 
