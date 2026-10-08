@@ -1,5 +1,7 @@
 # Minelaxy
 
+### NOT AVALIBLE TO DOWNLOAD YET
+
 **Not to be confused with M0uiDev's Minecraft IN Super Mario Galaxy 2 mod**
 
 **I did not write this README. It was written entirely by Claude. I am working on making my own README though so it comes from me :3**
