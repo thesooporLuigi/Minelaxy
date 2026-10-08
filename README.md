@@ -1,6 +1,6 @@
 # Minelaxy
 
-### NOT AVAILABLE TO DOWNLOAD YET
+### **THIS MOD IS NOT (and I repeat) IS NOT AVAILABLE TO DOWNLOAD YET.** I made this repo public so you (yes you) can read about this mod. I don't have a set release date BUT I will be making showcase videos and changes overtime :3
 
 **Not to be confused with M0uiDev's Minecraft IN Super Mario Galaxy 2 mod**
 
@@ -10,7 +10,7 @@ AI part starts here :p
 
 **Minelaxy** is a Fabric mod for **Minecraft 1.21.1** that turns you into Mario (or Luigi) from *Super Mario Galaxy*: his moves, physics, animations, voice, music, HUD and death sequence, all taken from the game itself.
 
-**Current version: 1.1 Stable**. Grab it from [Releases](../../releases).
+**Current version: 1.1 Stable**. Grab it from [Releases](../../releases). (you can't yet)
 
 > **This mod contains no Nintendo files.** On launch it reads Mario's model, animations, sounds, music and HUD from **your own** extracted copy of Super Mario Galaxy. Without the game files the mod stays switched off and Minecraft plays like vanilla. Please don't share game files.
 
@@ -173,3 +173,8 @@ Open an issue with:
 - Movement, animation and sequence logic is based on the [Petari](https://github.com/SMGCommunity/Petari) Super Mario Galaxy decompilation.
 - Super Mario Galaxy is © Nintendo. This is a fan project and is not affiliated with or endorsed by Nintendo.
 - **This mod was vibecoded with Claude and was originally a personal project. please don't hate me :3**
+
+  ## Socials
+  TubeYou - https://www.youtube.com/@thesooporLuigi
+  TikTok - https://www.tiktok.com/@thesooporluigi (i post straight bs on here but I do post videos of Minelaxy sometimes)
+  Discord - Not yet
