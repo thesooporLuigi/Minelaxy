@@ -1,6 +1,6 @@
 # Minelaxy
 
-### NOT AVALIBLE TO DOWNLOAD YET
+### NOT AVAILABLE TO DOWNLOAD YET
 
 **Not to be confused with M0uiDev's Minecraft IN Super Mario Galaxy 2 mod**
 
