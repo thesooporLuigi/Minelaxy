@@ -175,6 +175,6 @@ Open an issue with:
 - **This mod was vibecoded with Claude and was originally a personal project. please don't hate me :3**
 
 ## Socials
-TubeYou - https://www.youtube.com/@thesooporLuigi
-TikTok - https://www.tiktok.com/@thesooporluigi (i post straight bs on here but I do post videos of Minelaxy sometimes)
-Discord - Not yet
+- TubeYou - https://www.youtube.com/@thesooporLuigi
+- TikTok - https://www.tiktok.com/@thesooporluigi (i post straight bs on here but I do post videos of Minelaxy sometimes)
+- Discord - Not yet
